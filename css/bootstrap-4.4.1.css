@@ -65,8 +65,8 @@ body {
 
 /*profile picture*/
 .profile-pic {
-    width: 350px;
-    height: 350px;
+    width: 375px;
+    height: 375px;
     border-radius: 50%;
     object-fit: cover;
 }
